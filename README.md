@@ -47,20 +47,33 @@ First we create a virutal  python environement in jupter notebook. Then,we downl
 
 ## Installment
 
-To deploy this project we have to create a virtual environment in anoconda navigator
+To run this project we have to create a virtual environment in anoconda navigator.
+
+Creating virtual python environmet
+
+
 
 ```bash
   conda create --name py35 python=3.8.8
 ```
+![virtual X](https://user-images.githubusercontent.com/91752852/138587960-0ca08bd1-4710-4eb9-80da-acb55c1daedd.png)
+
+Activate virtual envrionment
+
 ```bash
   conda activate py35
 ```
+![conda x](https://user-images.githubusercontent.com/91752852/138588022-812feb39-a24d-468c-8813-39f9d1dde18d.png)
+Install notebook
 ```bash
   pip install notebook
 ```
+Open Jupyter notebook
+![notebook xxxx](https://user-images.githubusercontent.com/91752852/138588339-ed35f908-071c-4cda-8fa0-71d029e8e5fc.png)
 ```bash
   jupyter notebook
 ```
+![jjjjjxxx](https://user-images.githubusercontent.com/91752852/138588263-6fdbb2a0-503b-4519-8ea8-acd1915bb1c2.png)
 ### Install Python libraries
 
 
@@ -123,6 +136,9 @@ pip install gTTS
  ```bash
 pip install librosa  
 ```
+
+# Push your project in Git hub
+![dgy](https://user-images.githubusercontent.com/91752852/138588505-ffd3bb97-3871-42c6-b74c-189c63a1e80f.png)
 
 
 # Reference
