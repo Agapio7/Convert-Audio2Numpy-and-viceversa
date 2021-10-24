@@ -38,14 +38,15 @@ __Input audio from users__
 * Pydub
 * Pyaudio
 
-
-
 # Documentation
 
 First we create a virutal  python environement in jupter notebook. Then,we download necessaries python libraries such as numpy,matlplotlib,wavio,audio2numpy,soundfile,pyaudio, pydub,audioplayer librosa,simpleaudio, soundcard,gTTs and psychopy.
 
+# Project detail
+[AUDIO NUMPY PROJECT](https://https://github.com/Hem7513/Convert-Audio2Numpy-and-viceversa/blob/master/AUDIO2NUMPY2AUDIO.ipynb)
 
-## Installment
+
+# Installation
 
 To run this project we have to create a virtual environment in anoconda prompt.
 
