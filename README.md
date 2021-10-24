@@ -47,7 +47,7 @@ First we create a virutal  python environement in jupter notebook. Then,we downl
 
 ## Installment
 
-To run this project we have to create a virtual environment in anoconda navigator.
+To run this project we have to create a virtual environment in anoconda prompt.
 
 Creating virtual python environmet
 
@@ -74,14 +74,14 @@ Open Jupyter notebook
   jupyter notebook
 ```
 ![jjjjjxxx](https://user-images.githubusercontent.com/91752852/138588263-6fdbb2a0-503b-4519-8ea8-acd1915bb1c2.png)
+
 ### Install Python libraries
 
 
 ```bash
 pip install librosa https://pypi.org/project/librosa/
 ```
-  
-  ```bash
+```bash
  pip install matplotlib
 ```
  ```bash
@@ -214,6 +214,10 @@ https://pypi.org/project/python-vlc/
 https://github.com/TaylorSMarks/playsound
 
 https://www.youtube.com/watch?v=mHPpCXqQd7Y
+
+
+### Thanks for visiting ✌️
+
 
 
 
