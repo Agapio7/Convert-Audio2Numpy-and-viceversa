@@ -51,8 +51,6 @@ To run this project we have to create a virtual environment in anoconda prompt.
 
 Creating virtual python environmet
 
-
-
 ```bash
   conda create --name py35 python=3.8.8
 ```
@@ -137,7 +135,8 @@ pip install gTTS
 pip install librosa  
 ```
 
-# Push your project in Git hub
+# Push your project in Git hub repo
+
 ![dgy](https://user-images.githubusercontent.com/91752852/138588505-ffd3bb97-3871-42c6-b74c-189c63a1e80f.png)
 
 
