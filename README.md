@@ -109,7 +109,7 @@ Pyaudio
  pip install pipwin
 ```
  ```bash
- pipwin stall pyaudio
+ pipwin install pyaudio
 ```
  ```bash
  pip install --upgrade setuptools
